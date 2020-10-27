@@ -1,0 +1,40 @@
+{
+    "waifu":[
+        [
+          "Kurumu Kurono",
+          "kurumu_kurono.jpg",
+           [3,0,1,2,3,1,2],
+           "Rosario + Vampire"
+        ],
+        [
+          "Haruno Sakura",
+          "haruno_sakura.jpg",
+           [5,0,1,4,2,1,0],
+           "Naruto"
+        ],
+        [
+          "Hyuuga Hinata",
+          "hyuuga_hinata.jpg",
+           [8,0,2,0,0,1,0],
+           "Naruto"
+        ],
+        [
+          "Yamanaka Ino",
+          "yamanaka_ino.jpg",
+           [1,0,2,3,3,1,0],
+           "Naruto"
+        ],
+        [
+          "Madoka",
+          "madoka.jpg",
+           [5,4,1,1,4,1,6],
+           "Puella Magi Madoka Magica"
+        ],
+        [
+          "Hatsune Miku",
+          "hatsune_miku.jpg",
+           [3,4,2,3,5,1,0],
+           "Vocaloid"
+        ]
+    ]
+}
